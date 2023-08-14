@@ -2,7 +2,7 @@ require("niall.set")
 require("niall.remap")
 
 local augroup = vim.api.nvim_create_augroup
-local ThePrimeagenGroup = augroup('Niall', {})
+local NiallGroup = augroup('Niall', {})
 
 local autocmd = vim.api.nvim_create_autocmd
 local yank_group = augroup('HighlightYank', {})
