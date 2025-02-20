@@ -1,2 +1,3 @@
-# NvimRc
-Personal Nvim setup using harpoon, telescope and treesitter
+## NvimRc
+Personal Nvim setup built on Lua.
+Incorporates harpoon, telescope and treesitter
